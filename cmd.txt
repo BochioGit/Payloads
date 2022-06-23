@@ -1,1 +1,1 @@
-<PHP exec('hostname') ?>
+<?PHP print exec('hostname') ?>
